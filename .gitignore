@@ -1,0 +1,11 @@
+# Large build outputs: publish selectively via Releases, not ordinary Git history
+out/
+build/
+*.img
+*.zip
+*.tar
+*.tar.gz
+*.log.bak
+*.tmp
+.DS_Store
+Thumbs.db
